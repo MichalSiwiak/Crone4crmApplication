@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.io.IOException;
 
-//mvn spring-boot:run -Dspring-boot.run.arguments=hash
+//0 2 * * * cd /home/siwiakmichal/crons/Crone4crmApplication && mvn spring-boot:run -Dspring-boot.run.arguments=hash
 @SpringBootApplication
 public class Crone4crmApplication {
 
